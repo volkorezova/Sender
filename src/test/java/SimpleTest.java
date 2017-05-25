@@ -26,6 +26,6 @@ public class SimpleTest {
         }
         searchResultPage.checkNumberOfItemsPerSearchPage();
         searchResultPage.checkItemLinkContainsTrademark();
-        searchResultPage.clickFirstItemLink();
+        searchResultPage.clickFirstItemLink();weaf,dhmabsfjhgmdxcvbsdf
     }
 }
