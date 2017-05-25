@@ -28,4 +28,7 @@ public class SimpleTest {
         searchResultPage.checkItemLinkContainsTrademark();
         searchResultPage.clickFirstItemLink();weaf,dhmabsfjhgmdxcvbsdf
     }
-}
+}wesfdcasdf
+
+@test
+
